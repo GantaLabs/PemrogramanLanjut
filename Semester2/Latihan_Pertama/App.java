@@ -1,5 +1,9 @@
 package Latihan_Pertama;
 
+// Nama     : Roganda Tua Tampubolon
+// NIM      : 255150201111017
+// Kelas    : C
+
 class BidangDuaDimensi {
     private String nama;
 
